@@ -1,4 +1,4 @@
-<a href="https://github.com/Alireza-rahnama"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-rahnama&theme=tokyonight&exclude_repo=Data_Engineering"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Alireza-rahnama&&show_icons=true&theme=tokyonight&line_height=27&&hide=contribs)](https://maxbase.org)
+<a href="https://github.com/Alireza-rahnama"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-rahnama&theme=tokyonight&exclude_repo"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Alireza-rahnama&&show_icons=true&theme=tokyonight&line_height=27&&hide=contribs)](https://maxbase.org)
 
 
 ## → My Languages/Tools
@@ -17,7 +17,7 @@
 
 
 ## → Social Media 
-[![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/alireza-rahnama)
+[![Github](https://img.shields.io/badge/GitHub-white?style=flat&logo=github&logoColor=black)](https://github.com/alireza-rahnama)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezarahnama-dev/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AlirezaRahnam17)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alirezarm@mun.ca)
