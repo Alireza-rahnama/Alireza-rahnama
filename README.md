@@ -1,7 +1,7 @@
 <a href="https://github.com/Alireza-rahnama"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-rahnama&theme=tokyonight&exclude_repo"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Alireza-rahnama&&show_icons=true&theme=tokyonight&line_height=27&&hide=contribs)](https://maxbase.org)
 
 
-## → My Languages/Tools
+## → Programming Languages & Development Tools
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=Java&logoColor=white)
 ![JavaSpringBoot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=yellow)
