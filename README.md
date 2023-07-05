@@ -1,4 +1,4 @@
-<a href="https://github.com/Alireza-rahnama"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-rahnama&theme=tokyonight&exclude_repo=Data_Engineering"/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Alireza-rahnama&&show_icons=true&theme=tokyonight&line_height=27&&hide=contribs)](https://maxbase.org)
+<a href="https://github.com/Alireza-rahnama"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-rahnama&theme=tokyonight&exclude_repo="/></a>&nbsp;[![GitHub Status](https://github-readme-stats.vercel.app/api?username=Alireza-rahnama&&show_icons=true&theme=tokyonight&line_height=27&&hide=contribs)](https://maxbase.org)
 
 
 ## → Programming Languages & Development Tools
