@@ -16,6 +16,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=Dart&logoColor=blue)
+![Flutter](https://img.shields.io/badge/Flutter-2CA5E0?style=for-the-badge&logo=Flutter&logoColor=white)
 
 
 ## → Social Media 
